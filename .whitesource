@@ -1,5 +1,16 @@
 {
-"scanSettings:
-  enableReachability: false"
+  "scanSettings": {
+    "configMode": "AUTO",
+    "enableReachability: false",
+	"configExternalURL": "",
+	"projectToken": "",
+	"baseBranches": []
+  },
+  "checkRunSettings": {
+    "displayMode": "diff",
+    "vulnerableCheckRunConclusionLevel": "failure"
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW"
+  }
 }
-    
