@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "AUTO",
-    "enableReachability: false",
+    "enableReachability": false,
 	"configExternalURL": "",
 	"projectToken": "",
 	"baseBranches": []
